@@ -1,5 +1,7 @@
 # Day 08 — Build Your First AI-Powered Dashboard
 
+**Live Preview:** [Personal Environmental Health Analyzer](https://environmental-health-analyzer-vansh.netlify.app/)
+
 ## Objective
 
 The objective of Day 8 was to explore Claude Artifacts and transition from simple prompt responses to generating a complete, interactive front-end application. The task was designed to teach prompt-to-application generation, showing how an AI can build data visualizations, interactive filters, responsive layouts, and state management in a single session. This demonstrates how AI-assisted product building can rapidly move an idea into a functional prototype.
